@@ -1,6 +1,6 @@
 .header-img {
   width: 100%;
-  height: 380px;
+  height: 250px;
 }
 
 .search-block {
@@ -10,7 +10,7 @@
   justify-content: center;
   width: 100%;
   height: 100%;
-  background-color: #282c34;
+  background-color: #1c261f;
   color: white;
   font-size: 20px;
   font-weight: bold;
@@ -22,7 +22,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #48d9f6;
+  color: #c4ed0f;
   font-size: 70px;
   margin-bottom: 10px;
 }
@@ -77,7 +77,7 @@ input {
   font-size: 20px;
   font-weight: bold;
   padding: 10px;
-  color: white;
+  color: #c4ed0f;
   background-color: #282c34;
   margin-top: 10px;
   margin-bottom: 10px;
